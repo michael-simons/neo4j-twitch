@@ -17,6 +17,7 @@
 
 	<properties>
 		<java.version>14</java.version>
+		<neo4j-java-driver-spring-boot-starter.version>4.0.1.1</neo4j-java-driver-spring-boot-starter.version>
 	</properties>
 
 	<dependencies>
@@ -27,8 +28,8 @@
 
 		<dependency>
 			<groupId>org.neo4j.driver</groupId>
-			<artifactId>neo4j-java-driver</artifactId>
-			<version>4.0.1</version>
+			<artifactId>neo4j-java-driver-spring-boot-starter</artifactId>
+			<version>${neo4j-java-driver-spring-boot-starter.version}</version>
 		</dependency>
 	</dependencies>
 
