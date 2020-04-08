@@ -18,6 +18,7 @@
 	<properties>
 		<java.version>14</java.version>
 		<neo4j-java-driver-spring-boot-starter.version>4.0.1.1</neo4j-java-driver-spring-boot-starter.version>
+		<spring-boot.run.jvmArguments>--enable-preview</spring-boot.run.jvmArguments>
 	</properties>
 
 	<dependencies>
