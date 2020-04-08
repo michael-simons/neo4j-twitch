@@ -1,3 +1,5 @@
+NOTE: _You need Java 14 to run the examples._
+
 # Neo4j
 
 * https://neo4j.com
